@@ -23,3 +23,6 @@ eg. `https://user-images.githubusercontent.com/39263/532470179-0377bc03-e276-42a
 https://github.com/user-attachments/assets/532470179-0377bc03-e276-42a6-8baf-6d959853f686
 
 Hm, that worked for video but not gif. 
+
+
+https://github.com/storytold/github-media/blob/main/ezgif-40998d5b0804e07b.gif

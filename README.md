@@ -19,3 +19,7 @@ Temporary repository for housing media for our READMEs.
 eg. `https://user-images.githubusercontent.com/39263/532470179-0377bc03-e276-42a6-8baf-6d959853f686.gif`
 
 ![image](https://user-images.githubusercontent.com/39263/532470179-0377bc03-e276-42a6-8baf-6d959853f686.gif)
+
+https://github.com/user-attachments/assets/532470179-0377bc03-e276-42a6-8baf-6d959853f686
+
+Hm, that worked for video but not gif. 
